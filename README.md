@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # KanBan-Organizer
 =======
 # ✔️ Kanban Board - With React
@@ -21,10 +21,3 @@
 - React
 - react-beautiful-dnd
 - uuid
-
-## Todo
-
-- [ ] *Make tasks modifiable and editable*
-- [ ] *Adapted to mobile*
-
->>>>>>> 6191cd7 (Initial Commit)
